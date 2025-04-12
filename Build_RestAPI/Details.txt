@@ -1,0 +1,9 @@
+let's build rest api using http methods
+
+get-> get user data
+post -> put user data
+patch -> update the data
+delete -> delete the data
+
+I am using not using any database here I am using json file and hardcoding the user data.
+a website called mockaroo used to generate random data 
